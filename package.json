@@ -26,7 +26,7 @@
     "clsx": "^2.1.1",
     "jsm-editor": "^0.0.12",
     "lexical": "^0.28.0",
-    "lucide-react": "^0.475.0",
+    "lucide-react": "^0.483.0",
     "nanoid": "^5.0.7",
     "next": "15.1.7",
     "react": "^19.0.0",
