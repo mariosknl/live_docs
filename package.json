@@ -14,7 +14,7 @@
     "@lexical/react": "^0.31.0",
     "@liveblocks/client": "^2.4.0",
     "@liveblocks/node": "^2.4.0",
-    "@liveblocks/react": "^2.4.0",
+    "@liveblocks/react": "^3.0.0",
     "@liveblocks/react-lexical": "^2.4.0",
     "@liveblocks/react-ui": "^2.4.0",
     "@radix-ui/react-dialog": "^1.1.1",
